@@ -1,7 +1,7 @@
 # Crypto-App-Compose-Kotlin
 Crypto App (Compose)
 
-- Compose
+- Android Compose
 - Retrofit
 - RxJava
 - Recycler View
